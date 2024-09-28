@@ -1,0 +1,50 @@
+<courses>
+    <course>
+        <course_id>200</course_id>
+        <student_id>100</student_id>
+        <course_title>CSC</course_title>
+        <course_description>Software Engineering</course_description>
+    </course>
+    <course>
+        <course_id>201</course_id>
+        <student_id>100</student_id>
+        <course_title>ITE 13</course_title>
+        <course_description>Information for Techonlogy</course_description>
+    </course>
+    <course>
+        <course_id>202</course_id>
+        <student_id>101</student_id>
+        <course_title>PE</course_title>
+        <course_description>Physical Fitness Education</course_description>
+    </course>
+    <course>
+        <course_id>203</course_id>
+        <student_id>102</student_id>
+        <course_title>IT 104</course_title>
+        <course_description>Networking 1</course_description>
+    </course>
+    <course>
+        <course_id>204</course_id>
+        <student_id>103</student_id>
+        <course_title>ITE 12</course_title>
+        <course_description>Fundamentals of Programming</course_description>
+    </course>
+        <course>
+        <course_id>204</course_id>
+        <student_id>104</student_id>
+        <course_title>ITE 12</course_title>
+        <course_description>Fundamentals of Programming</course_description>
+    </course>
+    <course>
+        <course_id>203</course_id>
+        <student_id>104</student_id>
+        <course_title>IT 104</course_title>
+        <course_description>Networking 1</course_description>
+    </course>
+    <course>
+        <course_id>201</course_id>
+        <student_id>104</student_id>
+        <course_title>ITE 11</course_title>
+        <course_description>Mathematical Applications for ITE</course_description>
+    </course>
+</courses>
